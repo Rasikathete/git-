@@ -1,4 +1,5 @@
 Write a program to check if the given number is palindrome or not.
+
 num = int(input("Enter a number: "))
 # Input: 12321
 temp = num
@@ -11,4 +12,6 @@ if num == reverse:
   print('Palindrome')
 else:
   print("Not Palindrome")
+
+
 # Output: Palindrome
